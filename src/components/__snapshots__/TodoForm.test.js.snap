@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TodoForm Component should render correctly 1`] = `
+<form
+  onSubmit={[MockFunction]}
+>
+  <input
+    onChange={[MockFunction]}
+    value=""
+  />
+  <button
+    type="submit"
+  >
+    Submit
+  </button>
+</form>
+`;
